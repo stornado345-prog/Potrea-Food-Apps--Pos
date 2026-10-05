@@ -1,0 +1,6 @@
+{
+  "name": "Poetra Food",
+  "description": "Self-order food and beverage tablet application in landscape mode for Poetra Food fast-food restaurant with adaptive UI, interactive cart, customizable items, and pay-at-counter ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

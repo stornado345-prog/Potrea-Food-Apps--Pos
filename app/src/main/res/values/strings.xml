@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Poetra Food</string>
+    <string name="brand_subtitle">Self-Order Kiosk</string>
+    <string name="search_menu">Search menu (e.g. burger, fries, cola)...</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="order_received">Order Received</string>
+    <string name="waiting_for_payment">Waiting for Payment</string>
+    <string name="pay_at_counter_title">Pay at Counter</string>
+    <string name="pay_at_counter_desc">Please proceed to the cashier with your order number to complete your payment.</string>
+</resources>
